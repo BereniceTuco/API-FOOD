@@ -1,0 +1,74 @@
+{
+    "pedidos": [
+        {
+            "id":1,
+            "nombre":"Berenice Torres Tuco",
+            "telefono": "7777295712",
+            "total_pagar":489.6,
+            "pagara":500
+        },
+        {
+            "id":2,
+            "nombre":"Hector Saldaña Ezpinoza",
+            "telefono": "7772049174",
+            "total_pagar":346.9,
+            "pagara":600
+        },
+        {
+            "id":3,
+            "nombre":"Francisco Uriel Guerrero Rivera",
+            "telefono": "7777739153",
+            "total_pagar":135,
+            "pagara":200
+        },
+        {
+            "id":4,
+            "nombre":"Fernando Ezequiel Carbajal Bello",
+            "telefono": "7770001517",
+            "total_pagar":99,
+            "pagara":100
+        },
+        {
+            "id":5,
+            "nombre":"Gandy Esau Avila Estrada",
+            "telefono": "7773394857",
+            "total_pagar":59.80,
+            "pagara":500
+        },
+        {
+            "id":6,
+            "nombre":"Elizabeth Estrada Salazar",
+            "telefono": "7770099999",
+            "total_pagar":320,
+            "pagara":400
+        },
+        {
+            "id":7,
+            "nombre":"Michelle Lopez Perez",
+            "telefono": "7771666654",
+            "total_pagar":420,
+            "pagara":500
+        },
+        {
+            "id":8,
+            "nombre":"Nancy Rubi Camacho",
+            "telefono": "7770008765",
+            "total_pagar":220,
+            "pagara":300
+        },
+        {
+            "id":9,
+            "nombre":"Josue Uriel Torres Arellano",
+            "telefono": "7774443214",
+            "total_pagar":102.5,
+            "pagara":200
+        },
+        {
+            "id":10,
+            "nombre":"Filimon Tuco Cardenas",
+            "telefono": "7778787865",
+            "total_pagar":305.5,
+            "pagara":500
+        }
+    ]
+}
