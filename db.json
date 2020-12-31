@@ -1,74 +1,98 @@
 {
-    "pedidos": [
-        {
-            "id":1,
-            "nombre":"Berenice Torres Tuco",
+    "pedidos": [{
+            "id": 1,
+            "nombre": "Berenice Torres Tuco",
             "telefono": "7777295712",
-            "total_pagar":489.6,
-            "pagara":500
+            "total_pagar": 489.6,
+            "pagara": 500,
+            "especificaciones_pedido": "Vivo cerca del Mercado de Zapata",
+            "platillos": [{
+                    "nombre": "Chilaquiles",
+                    "cantidad": 4,
+                    "precio": 35
+                },
+                {
+                    "nombre": "Hamburguesa",
+                    "cantidad": 1,
+                    "precio": 40
+                }
+            ]
         },
         {
-            "id":2,
-            "nombre":"Hector Saldaña Espinoza",
+            "id": 2,
+            "nombre": "Hector Saldaña Espinoza",
             "telefono": "7772049174",
-            "total_pagar":346.9,
-            "pagara":600
+            "total_pagar": 346.9,
+            "pagara": 600,
+            "especificaciones_pedido": "Vivo cerca del Conalep de Temixco",
+            "platillos": [{
+                    "nombre": "Arroz con huevito",
+                    "cantidad": 1,
+                    "precio": 30
+                },
+                {
+                    "nombre": "Spaguetti",
+                    "cantidad": 2,
+                    "precio": 40
+                }
+            ]
         },
         {
-            "id":3,
-            "nombre":"Francisco Uriel Guerrero Rivera",
+            "id": 3,
+            "nombre": "Francisco Uriel Guerrero Rivera",
             "telefono": "7777739153",
-            "total_pagar":135,
-            "pagara":200
+            "total_pagar": 135,
+            "pagara": 200,
+            "especificaciones_pedido": "Vivo cerca del Tezoyuca",
+            "platillos": [{
+                    "nombre": "Ensalada",
+                    "cantidad": 1,
+                    "precio": 20
+                },
+                {
+                    "nombre": "Pozole",
+                    "cantidad": 2,
+                    "precio": 60
+                }
+            ]
         },
         {
-            "id":4,
-            "nombre":"Fernando Ezequiel Carbajal Bello",
+            "id": 4,
+            "nombre": "Fernando Ezequiel Carbajal Bello",
             "telefono": "7770001517",
-            "total_pagar":99,
-            "pagara":100
+            "total_pagar": 99,
+            "pagara": 100,
+            "especificaciones_pedido": "Vivo en Toluca",
+            "platillos": [{
+                    "nombre": "Hot dogs",
+                    "cantidad": 5,
+                    "precio": 15
+                },
+                {
+                    "nombre": "Mole verde",
+                    "cantidad": 2,
+                    "precio": 60
+                }
+            ]
         },
         {
-            "id":5,
-            "nombre":"Gandy Esau Avila Estrada",
+            "id": 5,
+            "nombre": "Gandy Esau Avila Estrada",
             "telefono": "7773394857",
-            "total_pagar":59.80,
-            "pagara":500
-        },
-        {
-            "id":6,
-            "nombre":"Elizabeth Estrada Salazar",
-            "telefono": "7770099999",
-            "total_pagar":320,
-            "pagara":400
-        },
-        {
-            "id":7,
-            "nombre":"Michelle Lopez Perez",
-            "telefono": "7771666654",
-            "total_pagar":420,
-            "pagara":500
-        },
-        {
-            "id":8,
-            "nombre":"Nancy Rubi Camacho",
-            "telefono": "7770008765",
-            "total_pagar":220,
-            "pagara":300
-        },
-        {
-            "id":9,
-            "nombre":"Josue Uriel Torres Arellano",
-            "telefono": "7774443214",
-            "total_pagar":102.5,
-            "pagara":200
-        },
-        {
-            "id":10,
-            "nombre":"Filimon Tuco Cardenas",
-            "telefono": "7778787865",
-            "total_pagar":305.5,
-            "pagara":500
+            "total_pagar": 59.8,
+            "pagara": 500,
+            "especificaciones_pedido": "Vivo cerca de la UTEZ",
+            "platillos": [{
+                    "nombre": "Frijoles",
+                    "cantidad": 1,
+                    "precio": 25
+                },
+                {
+                    "nombre": "Pollo asado",
+                    "cantidad": 1,
+                    "precio": 60
+                }
+            ]
         }
     ]
 }
