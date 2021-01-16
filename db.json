@@ -16,7 +16,11 @@
                     "cantidad": 1,
                     "precio": 40
                 }
-            ]
+            ],
+            "ubicacion": {
+                "latitud": 19.186362,
+                "longitud": -99.157025
+            }
         },
         {
             "id": 2,
@@ -40,7 +44,11 @@
                     "cantidad": 1,
                     "precio": 90
                 }
-            ]
+            ],
+            "ubicacion": {
+                "latitud": 18.937196,
+                "longitud": -99.194664
+            }
         },
         {
             "id": 3,
@@ -59,7 +67,11 @@
                     "cantidad": 2,
                     "precio": 60
                 }
-            ]
+            ],
+            "ubicacion": {
+                "latitud": 18.895423,
+                "longitud": -99.22699
+            }
         },
         {
             "id": 4,
@@ -78,7 +90,11 @@
                     "cantidad": 2,
                     "precio": 60
                 }
-            ]
+            ],
+            "ubicacion": {
+                "latitud": 18.84196,
+                "longitud": -99.217078
+            }
         },
         {
             "id": 5,
@@ -97,7 +113,11 @@
                     "cantidad": 1,
                     "precio": 60
                 }
-            ]
+            ],
+            "ubicacion": {
+                "latitud": 18.83632,
+                "longitud": -99.202719
+            }
         }
     ]
 }
