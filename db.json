@@ -43,6 +43,26 @@
                     "nombre": "Mole Rojo",
                     "cantidad": 1,
                     "precio": 90
+                },
+                {
+                    "nombre": "Mole Verde",
+                    "cantidad": 1,
+                    "precio": 95
+                },
+                {
+                    "nombre": "Arroz blanco",
+                    "cantidad": 1,
+                    "precio": 20
+                },
+                {
+                    "nombre": "Mariscos",
+                    "cantidad": 3,
+                    "precio": 300
+                },
+                {
+                    "nombre": "Carnitas",
+                    "cantidad": 1,
+                    "precio": 400
                 }
             ],
             "ubicacion": {
