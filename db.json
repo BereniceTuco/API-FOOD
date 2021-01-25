@@ -160,5 +160,39 @@
             "descripcion": "Excelente servicio, todo fresco y humilde",
             "calificacion": 5
         }
+    ],
+    "sucursales": [{
+            "id": 1,
+            "nombre": "Emiliano Zapata",
+            "ubicacion": {
+                "latitud": 18.835138,
+                "longitud": -99.203283
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "Cuernavaca",
+            "ubicacion": {
+                "latitud": 18.924381,
+                "longitud": -99.209114
+            }
+        },
+        {
+            "id": 3,
+            "nombre": "Jiutepec",
+            "ubicacion": {
+                "latitud": 18.895139,
+                "longitud": -99.176908
+            }
+        },
+        {
+            "id": 4,
+            "nombre": "Xochitepec",
+            "ubicacion": {
+                "latitud": 18.788784,
+                "longitud": -99.245285
+            }
+        }
+
     ]
 }
