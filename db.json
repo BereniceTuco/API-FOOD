@@ -139,5 +139,26 @@
                 "longitud": -99.202719
             }
         }
+    ],
+    "comentarios": [{
+            "nombre": "Hector Saldaña Espinoza",
+            "descripcion": "Muy buena comida la verdad tiene un buen servicio.",
+            "calificacion": 5
+        },
+        {
+            "nombre": "Berenice Torres Tuco",
+            "descripcion": "La comida muy buena la verdad",
+            "calificacion": 3
+        },
+        {
+            "nombre": "Francisco Uriel Guerrero Rivera",
+            "descripcion": "Puede mejorar",
+            "calificacion": 4
+        },
+        {
+            "nombre": "Jean Rodriguez",
+            "descripcion": "Excelente servicio, todo fresco y humilde",
+            "calificacion": 5
+        }
     ]
 }
